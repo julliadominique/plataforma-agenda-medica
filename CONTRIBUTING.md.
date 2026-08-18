@@ -1,0 +1,10 @@
+# Guia de Contribuição
+
+Agradecemos o interesse em contribuir com o **plataformaagendamedica**!
+
+## Como Contribuir
+1. Faça um **Fork** do projeto.
+2. Crie uma branch para sua funcionalidade (`git checkout -b feature/nova-funcionalidade`).
+3. Faça o **Commit** de suas alterações (`git commit -m 'feat: adiciona nova funcionalidade'`).
+4. Envie para a sua branch (`git push origin feature/nova-funcionalidade`).
+5. Abra um **Pull Request**.
